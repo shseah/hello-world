@@ -1,2 +1,4 @@
 # hello-world
-Just to try out
+
+Hi, this is my first turorial on GitHub.
+
